@@ -7,7 +7,7 @@ Bienvenido a mi repositorio de servicios de pruebas de software. Aquí encontrar
 ### 1. 📝 Pruebas de Software (Manual y Automatizado)
    - **Descripción:** Realizo pruebas de software tanto manuales como automatizadas para asegurar la calidad y el correcto funcionamiento de aplicaciones web y móviles, identificando errores y mejorando la experiencia del usuario final.
    - **Ejemplo:** Scripts de pruebas y casos de prueba documentados.
-   - 📂 [Ver más](./Pruebas-Manual-Automatizado)
+   
 
 ### 2. 🔍 Validación de APIs (Postman)
    - **Descripción:** Realizo pruebas exhaustivas y validación de APIs para asegurar que cada endpoint funcione sin errores y cumpla con los requisitos esperados, utilizando herramientas como Postman para diseñar y ejecutar pruebas eficientes.
@@ -27,7 +27,7 @@ Bienvenido a mi repositorio de servicios de pruebas de software. Aquí encontrar
 ### 6. 🤖 Automatización de Pruebas (Selenium, Python)
    - **Descripción:** Desarrollo scripts de automatización de pruebas utilizando Selenium y Python, lo cual ayuda a mejorar la eficiencia en los ciclos de pruebas, permitiendo realizar validaciones de manera rápida y repetitiva.
    - **Ejemplo:** Scripts de Selenium en Python para tareas de automatización.
-   - 📂 [Ver más](./Automatizacion-Selenium-Python)
+  
 
 ### 7. 🎨 Testing de Interfaz de Usuario (UI)
    - **Descripción:** Realizo pruebas detalladas en la interfaz de usuario para asegurar que sea funcional, intuitiva y esté optimizada para distintos dispositivos y resoluciones, brindando una experiencia de usuario consistente.
